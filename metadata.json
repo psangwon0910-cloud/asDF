@@ -1,0 +1,6 @@
+{
+  "name": "MATTER FINDER",
+  "description": "MATTER FINDER — 나만의 최적 신소재 탐색 및 가상 설계 시뮬레이터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
